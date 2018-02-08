@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">f-zxing-library</string>
+    <string name="f_library_zxing_camera_permission">未授权使用相机，无法使用扫码功能</string>
+    <string name="f_library_zxing_camera_no_lamp">您的设备不支持闪光灯</string>
+    <string name="f_library_zxing_scan_tip">请将扫码窗口对准二维码</string>
+    <!--<string name="action_settings">Settings</string>-->
+
+    <!--<string name="current_not_wifi_network">请在连接wifi的情况进行此操作!</string>-->
+    <!--<string name="please_connect_network">请先连接网络!</string>-->
+    <!--<string name="activity_repository_page_is_invalid_dialog_title">友情提示</string>-->
+    <!--<string name="activity_repository_page_is_invalid">页面已过期，请重新刷新页面!</string>-->
+    <!--<string name="activity_repository_page_is_invalid_position">刷新</string>-->
+    <!--<string name="activity_repository_page_is_invalid_negative">回到主菜单</string>-->
+    <!--<string name="capture_activity_error_code">错误二维码数据</string>-->
+    <!--<string name="capture_activity_code_content">二维码内容</string>-->
+    <!--<string name="dialog_common_btn_positive_know">知道了</string>-->
+    <!--<string name="start_download">开始下载</string>-->
+    <!--<string name="capture_activity_device_not_support_light">您的设备不支持闪光灯!</string>-->
+    <!--<string name="dialog_title">温馨提示</string>-->
+    <!--<string name="capture_activity_code_is_charge_free">当前商品是会员免费商品，请登录后查看该商品！</string>-->
+    <!--<string name="capture_activity_code_is_charge">当前商品为收费商品，请登录后购买该商品！</string>-->
+    <!--<string name="capture_activity_code_is_charge_postive">马上登录</string>-->
+    <!--<string name="capture_activity_code_is_charge_negative">稍候登录</string>-->
+    <!--<string name="dialog_fail_message">加载失败!</string>-->
+    <!--<string name="dialog_fail_positive_button">好的</string>-->
+    <!--<string name="loading">数据正在加载，请耐心等待…...</string>-->
+    <!--<string name="activity_downloaded_goods_acount">(当前)</string>-->
+    <!--<string name="capture_activity_book_not_local_dialog_message">是否下载书籍目录码？</string>-->
+    <!--<string name="dialog_common_btn_positive_yes">是 </string>-->
+    <!--<string name="dialog_common_btn_negative_no">否</string>-->
+    <!--<string name="goods_detail">商品详情</string>-->
+    <!--<string name="activity_repository_please_download_relative_software">请下载相关的第三方软件进行查看!</string>-->
+    <!--<string name="activity_audio_file_error">网络不给力!</string>-->
+    <!--<string name="activity_repository_downloading">PDF文件正在下载，请稍等...</string>-->
+    <!--<string name="dialog_common_title">提示</string>-->
+    <!--<string name="soft_version_update_fail">更新失败，请重试！</string>-->
+    <!--<string name="dialog_common_btn_positive_sure">确定</string>-->
+    <!--<string name="dialog_common_btn_negative_cancel">取消</string>-->
+    <!--<string name="activity_video_file_error">网络不给力!</string>-->
+    <!--<string name="network_communication_connecting">正在提交数据，请稍等...</string>-->
+    <!--<string name="activity_audio_title">音频</string>-->
+    <!--<string name="activity_repository_goods_pdf_file_download_fail">文件下载失败!</string>-->
+    
+    <!-- PDF解析 -->
+    <!--<string name="activity_pdf_file_not_exist">文件不存在!</string>-->
+    
+</resources>

@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+f-zxing-library.iml
+local.properties
+.gradle
+.idea
+build
