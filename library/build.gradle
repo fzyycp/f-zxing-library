@@ -7,8 +7,8 @@ android {
     defaultConfig {
         minSdkVersion 14
         targetSdkVersion 27
-        versionCode 106
-        versionName "1.0.6"
+        versionCode 107
+        versionName "1.0.7"
     }
     buildTypes {
         release {
@@ -24,15 +24,18 @@ android {
 dependencies {
     compile files('libs/zxing.jar')
     implementation 'com.android.support:support-v4:27.0.1'
-    implementation 'cn.faury.android.library:f-material-dialog-library:1.0.3'
+    implementation 'cn.faury.android.library:f-material-dialog-library:1.0.6'
 }
 
 publish {
 // gradlew clean build bintrayUpload -PbintrayUser=用户名 -PbintrayKey=apikey -PdryRun=false
     userOrg = 'faury'//bintray.com用户名
+    bintrayUser = BINTRAY_USER
+    bintrayKey = BINTRAY_KEY
+    dryRun = false
     groupId = 'cn.faury.android.library'//jcenter上的路径
     artifactId = 'f-zxing-library'//项目名称
-    publishVersion = '1.0.6'//版本号
+    publishVersion = '1.0.7'//版本号
     desc = 'this is an andriod library for zxing'//描述
     website = 'https://github.com/fzyycp/f-zxing-library'//github上的地址
 }
